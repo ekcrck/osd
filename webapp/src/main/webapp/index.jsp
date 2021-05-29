@@ -1,2 +1,2 @@
-<h1> This is the OSD Devops Project   </h1>
-<h2> Testing CI/CD Pipelines </h2>
+<h1> Refreshing the Devops skills! </h1>
+<h2> Emanuel Muza </h2>
